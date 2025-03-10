@@ -1,0 +1,16 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="200dp"
+    android:height="200dp"
+    android:viewportWidth="200"
+    android:viewportHeight="200">
+
+    <!-- Chef Hat -->
+    <path
+        android:fillColor="#FFA500"
+        android:pathData="M100,50 C70,50 60,70 60,90 C60,110 70,120 80,125 C80,130 80,140 100,140 C120,140 120,130 120,125 C130,120 140,110 140,90 C140,70 130,50 100,50 Z" />
+
+    <!-- Red Lips -->
+    <path
+        android:fillColor="#FF0000"
+        android:pathData="M80,150 C90,160 110,160 120,150 C110,155 90,155 80,150 Z" />
+</vector>
